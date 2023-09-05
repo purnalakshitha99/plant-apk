@@ -1,0 +1,16 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "EcoPrint",
+	"webDir": "dist",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		},
+		"Camera": {
+			"web": {
+				"useCameraModal": true
+			}
+		}
+	},
+	"bundledWebRuntime": false
+}

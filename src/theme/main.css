@@ -1,0 +1,184 @@
+/*bg-content{*/
+/*  !*background: #F4F5F8 !important;*!*/
+/*  background: red !important;*/
+/*}*/
+/*.inner-scroll scroll-y{*/
+/*  background: red !important;*/
+/*}*/
+
+.tab-selected {
+    color: #13bb84;
+}
+
+.tabs
+.tab-button
+.tab-button-text {
+    text-transform: none;
+}
+
+.h5_style {
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+
+    letter-spacing: -0.3px;
+
+    color: #000000;
+}
+
+.apply-modal::part(backdrop) {
+    background-color: #383a3e;
+
+}
+
+.apply-modal::part(content) {
+    width: 345px;
+    height: 400px;
+    left: 10px;
+    top: 170px;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.success-modal::part(backdrop) {
+    background-color: #383a3e;
+
+}
+
+.success-modal::part(content) {
+    width: 345px;
+    height: 400px;
+    left: 10px;
+    top: 170px;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.cancel-modal::part(backdrop) {
+    background-color: #383a3e;
+
+}
+
+.cancel-modal::part(content) {
+
+    width: 345px;
+    height: 400px;
+    left: 10px;
+    top: 170px;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.accept-modal::part(backdrop) {
+    background-color: #383a3e;
+
+}
+
+.accept-modal::part(content) {
+
+    width: 345px;
+    height: 300px;
+    left: 10px;
+    top: 170px;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.reject-modal::part(backdrop) {
+    background-color: #383a3e;
+
+}
+
+.toolbar {
+    --background: #171822;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.header_row {
+    padding-top: 30px;
+}
+
+.reject-modal::part(content) {
+    width: 345px;
+    height: 300px;
+    left: 10px;
+    top: 170px;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.cancelBook-modal::part(backdrop) {
+    background-color: #383a3e;
+
+}
+
+.cancelBook-modal::part(content) {
+
+    width: 90%;
+    height: 70%;
+    left: 10px;
+    top: 170px;
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+.editTimeSheet-modal::part(backdrop) {
+    background-color: #383a3e;
+
+}
+
+.editTimeSheet-modal::part(content) {
+
+    width: 345px;
+    height: 570px;
+    left: 10px;
+    top: 170px;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.viewComments-modal::part(backdrop) {
+    background-color: #383a3e;
+
+}
+
+.viewComments-modal::part(content) {
+    width: 245px;
+    height: 200px;
+    left: 10px;
+    top: 170px;
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+.native-input[type=date]::-webkit-calendar-picker-indicator {
+    width: 10px;
+    height: 10px;
+}
+
+.native-input[type=time]::-webkit-calendar-picker-indicator {
+    width: 10px;
+    height: 10px;
+}
+
+.u-input{
+    border-radius: 5px;
+    background: #d3dbd5;
+}
+
+/*}*/
+/*.segment-button-checked {*/
+/*    color: #13bb84;*/
+/*}*/
+
+/*.ion-segment{*/
+/*    color:#13bb84;*/
+/*}*/
